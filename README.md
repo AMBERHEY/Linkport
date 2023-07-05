@@ -1,24 +1,11 @@
-# blog-template
+### What‘s Link Port?
+Share and manage your favorite links with the streamlined Link Port template.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configuration Guide
+* Avator
+* Name
+* Link
+  * Link Name
+  * Link Href: Add a link and users will be redirected to the address upon clicking
+ 
+ [![](https://markdown.4everland.store/linkport.png)](https://markdown.4everland.store/linkport.png)
